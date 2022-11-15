@@ -1,5 +1,20 @@
-Author:	
-		Seyed Naeim Moafinejad: snmoafinejad@iimcb.gov.pl
+1D2DSimScore: A novel method for comparing contacts in biomacromolecules and their
+complexes
+
+Authors:
+S. Naeim Moafinejad 1 , Iswarya Pandara Nayaka PJ 1 , Farhang Jaryani 1 , Niloofar
+Shirvanizadeh 1 , Eugene Baulin 1 , and Janusz Bujnicki 1
+
+1 Laboratory of Bioinformatics and Protein Engineering, International Institute of Molecular
+and Cell Biology in Warsaw, ul. Ks. Trojdena 4, PL-02-109 Warsaw, Poland;
+* To whom correspondence should be addressed. Tel: (+48-22) 597-07-50; Fax: (+48-22) 597-
+07-15; Email: janusz@iimcb.gov.pl
+
+Website: 
+https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4503
+https://www.iimcb.gov.pl/en/
+https://genesilico.pl/
+
 # 1D2DSimScore
 # Table of contents
 - [Functionality](https://github.com/Naeim-Moafi/1D2DSimScore#1-functionality)
